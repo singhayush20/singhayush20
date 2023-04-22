@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Spring Boot and Hibernate**
+- 🌱 I’m currently working on Backend Development with Java.
 
 - 💬 Ask me about **Java, Android, Flutter**
 
