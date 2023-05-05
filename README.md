@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently working on Backend Development with Java.
+- 🌱 I’m currently working on Backend Application Development with Spring Boot and Hibernate
 
 - 💬 Ask me about **Java, Android, Flutter**
 
