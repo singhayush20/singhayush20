@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🌱 Currently working on Backend Web Development with Spring Boot and NodeJS. <br> <br> 💬 Ask me about, Java, SpringBoot, Flutter.
+🌱 Currently working on Mobile Application Development using Flutter. <br> <br> 💬 Ask me about, Java, SpringBoot, Flutter.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aprayush20/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-singh-321887201) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mysticshadow001) 
